@@ -1,25 +1,24 @@
-title:            HMFAYSAL V2
-tagline:          Life without Pants!
-description:      An awesome Jekyll theme by Engineer Hossain Mohd Faysal featuring a slide out drawer navigation for mobile browsers.
+title:            GIS projects
+tagline:          Welcome to my project portfolio!
+description:      
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://v2.theevilgenius.tk
+url:              http://mygisproject.com
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Benjamin Joseph Johnson
   avatar:         bio-photo.jpg
-  bio:            "Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that’s related to math, from math itself to programming languages to music to physics to engineering to philosophy."
-  email:          hmfaysal@gmail.com
+  bio:            "GIS Professional: SQL, Python, and other things"
+  email:          benjamin.joseph.johnson@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
-  linkedin:       
+  twitter:        
+  facebook:       
+  github:         https://github.com/benjaminjosephjohnson
+  linkedin:       https://www.linkedin.com/in/benjamin-joseph-johnson/
   instagram:      
   lastfm:         
   tumblr:         
-  hmfaysalsocial: hmfaysal
+  hmfaysalsocial: 
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
@@ -38,18 +37,11 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Setup
-    url: /theme-setup/
-  - title: T-Details
-    url: /technical-details/
-  - title: The Evil-Genius
-    url: http://www.theevilgenius.tk/
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-pygments:    true
+pygments:    false
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
