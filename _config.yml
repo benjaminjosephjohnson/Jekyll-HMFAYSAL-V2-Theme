@@ -8,13 +8,13 @@ url:              http://mygisproject.com
 owner:
   name:           Benjamin Joseph Johnson
   avatar:         bio-photo.jpg
-  bio:            "GIS Professional: SQL, Python, and other things"
+  bio:            "GIS Professional: SQL, Python, Remote Sensing"
   email:          benjamin.joseph.johnson@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         https://github.com/benjaminjosephjohnson
-  linkedin:       https://www.linkedin.com/in/benjamin-joseph-johnson/
+  github:         benjaminjosephjohnson
+  linkedin:       benjamin-joseph-johnson
   instagram:      
   lastfm:         
   tumblr:         

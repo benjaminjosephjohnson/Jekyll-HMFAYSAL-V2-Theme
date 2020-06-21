@@ -1,0 +1,42 @@
+I"
+<p>Let’s make a lambda function! It’s easier than you’d think.</p>
+
+<p>Navigate to the lambda service page to start the process.
+<img src="/assets/screenshots/Screen%20Shot%202018-06-23%20at%203.43.22%20PM.png" alt="My helpful screenshot" /></p>
+
+<p>Click on the ‘create function’ button in the top right.</p>
+
+<p><img src="/assets/screenshots/Screen%20Shot%202018-06-23%20at%203.51.39%20PM.png" alt="My helpful screenshot" /></p>
+
+<p>Author from scratch should be selected by default, if not, click on it at the top to select it.</p>
+
+<p>Click the first dropdown to browse the selection of supported runtime environments and choose one that you are comfortable with. In this case I will choose python 3.6.</p>
+
+<p><img src="/assets/screenshots/Screen%20Shot%202018-06-23%20at%203.59.31%20PM.png" alt="My helpful screenshot" /></p>
+
+<p>Next we need to set the function’s permissions, which we do by clicking on the Role dropdown panel. Click on ‘create new role from template’, and new fields will appear below.</p>
+
+<p>Give the role a name, and choose ‘Basic Edge Lambda permissions’ from the policy templates. If you ever need to add permissions, you can go to IAM and edit the role later.</p>
+
+<p><img src="/assets/screenshots/Screen%20Shot%202018-06-23%20at%204.13.03%20PM.png" alt="My helpful screenshot" /></p>
+
+<p>The function is now ready to be created! Make sure you’ve given it a name before clicking on the create function button in the bottom left.</p>
+
+<p>You should see this page if you’ve done everything right.</p>
+
+<p><img src="/assets/screenshots/Screen%20Shot%202018-06-23%20at%204.20.15%20PM.png" alt="My helpful screenshot" /></p>
+
+<p>Scroll down to the code page. This is the basic structure of a lambda function. You must have a function named lambda_handler, the output of your lambda function is what you return with your lambda_handler. Event can contain information about the thing that causes your lambda to run, and context can contain information about how your function performed when it ran.</p>
+
+<p><img src="/assets/screenshots/Screen%20Shot%202018-06-23%20at%204.27.39%20PM.png" alt="My helpful screenshot" /></p>
+
+<p>Let’s try running it. 
+Scroll up to the test button on the top of the page and click the dropdown near it to create a new test event.</p>
+
+<p><img src="/assets/screenshots/Screen%20Shot%202018-06-23%20at%204.27.39%20PM.png" alt="My helpful screenshot" /></p>
+
+<p>Success!</p>
+
+<p><img src="/assets/screenshots/Screen%20Shot%202018-06-23%20at%208.41.10%20PM.png" alt="My helpful screenshot" /></p>
+
+:ET
